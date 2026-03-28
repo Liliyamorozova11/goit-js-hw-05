@@ -36,6 +36,6 @@ console.log(
       name: "Sheree Anthony",
       email: "shereeanthony@kog.com",
       balance: 2764
-    },
+    }
   ])
 );
